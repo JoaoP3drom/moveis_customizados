@@ -1,5 +1,5 @@
 
-# Primeiro projeto do Explorer
+# Primeiro projeto desenvolvido no Explorer
 
 Projeto bem simples ensinado no Stage 02 do treinamento explorer da Rocketseat
 
